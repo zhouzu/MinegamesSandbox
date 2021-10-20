@@ -1,0 +1,6 @@
+C:\Users\ezzal\source\repos\MinegamesSandbox\MinegamesSandbox\bin\Debug\MinegamesSandbox.dll
+C:\Users\ezzal\source\repos\MinegamesSandbox\MinegamesSandbox\bin\Debug\MinegamesSandbox.pdb
+C:\Users\ezzal\source\repos\MinegamesSandbox\MinegamesSandbox\obj\Debug\MinegamesSandbox.csproj.AssemblyReference.cache
+C:\Users\ezzal\source\repos\MinegamesSandbox\MinegamesSandbox\obj\Debug\MinegamesSandbox.csproj.CoreCompileInputs.cache
+C:\Users\ezzal\source\repos\MinegamesSandbox\MinegamesSandbox\obj\Debug\MinegamesSandbox.dll
+C:\Users\ezzal\source\repos\MinegamesSandbox\MinegamesSandbox\obj\Debug\MinegamesSandbox.pdb
