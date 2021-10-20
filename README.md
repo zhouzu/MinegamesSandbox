@@ -1,5 +1,5 @@
 # MinegamesSandbox
-a sandbox made in C#.
+A Sandbox Made in C#. (Currently Supports 32-bit processes only)
 # Features
 * Prevent Creating New Processes
 * Prevent Creating Services
