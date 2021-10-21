@@ -1,5 +1,5 @@
 # MinegamesSandbox
-Sandboxing Library Made in C#. (Currently Supports 32-bit processes only)
+Sandboxing Library Made in C#, and Currently Supports 32-bit processes only (it was supposed to be for a browser i will gonna make but yeah, here it is open-source!)
 # Features
 * Prevent Creating New Processes
 * Prevent Creating Services
